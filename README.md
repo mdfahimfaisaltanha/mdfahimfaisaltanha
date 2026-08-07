@@ -2,7 +2,7 @@
 
 **Full-Stack & AI Engineer** · Founder @ [Innovera IT](https://innoverait.com) · Dhaka, Bangladesh 🇧🇩 · Remote-first
 
-I build **enterprise-grade systems from scratch** — no domain libraries, every hard part hand-implemented and documented. This profile hosts my **28-project portfolio**: distributed systems, ML pipelines, security infrastructure, and Islamic fintech, each with a README that explains the design decisions and the benchmarks behind them.
+I build **enterprise-grade systems from scratch** — no domain libraries, every hard part hand-implemented and documented. This profile hosts my **34-project portfolio**: distributed systems, ML pipelines, security infrastructure, and Islamic fintech, each with a README that explains the design decisions and the benchmarks behind them.
 
 ---
 
