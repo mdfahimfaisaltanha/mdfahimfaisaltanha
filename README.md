@@ -58,6 +58,7 @@ I build **enterprise-grade systems from scratch** — no domain libraries, every
 
 ## Beyond the portfolio
 
+- **IRoomsBD** — online travel agency platform for a Dhaka travel company: flights, hotels, tours, transport & deals, B2B agent program, admin control center, Bangla/English · [iroomsbd.com](https://iroomsbd.com)
 - **DineDeck Enterprise** — all-in-one restaurant platform: storefront, QR table ordering, POS, kitchen display, inventory, CRM, analytics, delivery & multi-branch, with bKash/Nagad/Rocket payments · [live demo](https://dinedeck.innoverait.com)
 - **CareDesk HMS** — hospital management SaaS for Famous Specialized Hospital: 9 roles, labs, pharmacy, beds, billing; TOTP MFA, CSRF protection, HMAC-chained audit log; zero-dependency Node 24 + SQLite
 - **Maryam Technology** — e-commerce platform for a POS-hardware retailer (storefront, admin, quotations, orders), live in production
