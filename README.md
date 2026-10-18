@@ -58,6 +58,7 @@ I build **enterprise-grade systems from scratch** — no domain libraries, every
 
 ## Beyond the portfolio
 
+- **DineDeck Enterprise** — all-in-one restaurant platform: storefront, QR table ordering, POS, kitchen display, inventory, CRM, analytics, delivery & multi-branch, with bKash/Nagad/Rocket payments · [live demo](https://dinedeck.innoverait.com)
 - **CareDesk HMS** — hospital management SaaS for Famous Specialized Hospital: 9 roles, labs, pharmacy, beds, billing; TOTP MFA, CSRF protection, HMAC-chained audit log; zero-dependency Node 24 + SQLite
 - **Maryam Technology** — e-commerce platform for a POS-hardware retailer (storefront, admin, quotations, orders), live in production
 - **Ziviq AI** — multi-tenant white-label AI chatbot SaaS (RAG over pgvector, WhatsApp + Messenger channels, Stripe billing)
